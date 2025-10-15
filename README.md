@@ -25,3 +25,11 @@
 - Số lượng: 3
 - Môn hoc: Lập trình giao diện
 - Thời gian thực hiện: 23/03/2025 -  06/04/2025
+
+---
+## 📄 Ghi chú
+
+Dự án được thực hiện nhằm phục vụ mục đích học tập và rèn luyện kỹ năng lập trình giao diện với C#
+
+---
+***Cảm ơn các bạn đã xem dự án này***
